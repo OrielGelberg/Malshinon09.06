@@ -98,12 +98,12 @@
     <Compile Include="DAL\AlertsDAL.cs" />
     <Compile Include="DAL\PeopleDAL.cs" />
     <Compile Include="DAL\ReportsDAL.cs" />
+    <Compile Include="models\Alert.cs" />
     <Compile Include="models\Person.cs" />
     <Compile Include="models\Report.cs" />
     <Compile Include="utils\DBConnection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="utils\LoadFromCsv.cs" />
     <Compile Include="utils\logger.cs" />
   </ItemGroup>
   <ItemGroup>
