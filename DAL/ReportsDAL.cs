@@ -24,8 +24,8 @@ internal static class ReportsDAL
             DBConnection.Execute(sql);
 
             
-            PeopleDAL.UpdateReportCount(report.ReporterId);
-            PeopleDAL.UpdateMentionCount(report.TargetId);
+           // PeopleDAL.UpdateReportCount(report.ReporterId);
+           // PeopleDAL.UpdateMentionCount(report.TargetId);
 
             Logger.Log($"Report submitted: Reporter ID {report.ReporterId}  Target ID {report.TargetId}");
         }

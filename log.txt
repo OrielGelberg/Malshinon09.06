@@ -1,0 +1,50 @@
+[2025-06-10 14:50:05] Created new person: ab with code: 6B57C7F3
+[2025-06-10 14:50:05] Created new person: yz with code: C33C8C39
+[2025-06-11 09:19:18] Created new person: jon with code: 40FAC632
+[2025-06-11 09:19:18] Created new person: oliver with code: 0075AC91
+[2025-06-11 10:04:05] Created new person: miki with code: 0BD026DF
+[2025-06-11 10:30:32] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 12:09:01] Created new person: John Doe with code: F19E1D23
+[2025-06-11 12:09:01] Created new person: Jane Smith with code: 3FA5DD47
+[2025-06-11 12:09:01] Report submitted: Reporter ID 6  Target ID 7
+[2025-06-11 12:09:01] Created new person: A1B2C3D4E5F6 with code: 773AC9A7
+[2025-06-11 12:09:01] Report submitted: Reporter ID 8  Target ID 7
+[2025-06-11 12:09:01] Created new person: B2C3D4E5F6G7 with code: F807E061
+[2025-06-11 12:09:01] Report submitted: Reporter ID 6  Target ID 9
+[2025-06-11 12:09:01] CSVImport: Imported 3 reports from C:\Users\אוריאל ובטי\Desktop\Malshinon09.06\sample_import.csv
+[2025-06-11 12:13:25] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 12:13:39] ShowSecretCodeByName: Retrieved secret code for ab
+[2025-06-11 15:02:15] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:02:41] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:02:57] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:25:19] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:25:42] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:25:51] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:25:51] Alert created: BURST_REPORTS for Target ID 2 - Target 'yz' received 3 reports in 15-minute window
+[2025-06-11 15:26:03] ShowSecretCodeByName: Retrieved secret code for ab
+[2025-06-11 15:26:38] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:26:38] Alert created: BURST_REPORTS for Target ID 2 - Target 'yz' received 4 reports in 15-minute window
+[2025-06-11 15:27:10] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:27:10] Alert created: BURST_REPORTS for Target ID 2 - Target 'yz' received 5 reports in 15-minute window
+[2025-06-11 15:27:29] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:27:29] Alert created: BURST_REPORTS for Target ID 2 - Target 'yz' received 6 reports in 15-minute window
+[2025-06-11 15:28:14] Report submitted: Reporter ID 1  Target ID 2
+[2025-06-11 15:28:14] Alert created: BURST_REPORTS for Target ID 2 - Target 'yz' received 7 reports in 15-minute window
+[2025-06-11 15:53:06] Created new person: haim with code: 8CE9489B
+[2025-06-11 15:53:06] Created new person: uriel with code: 2EC1990E
+[2025-06-11 15:53:06] Report submitted: Reporter ID 10  Target ID 11
+[2025-06-11 15:53:28] ShowSecretCodeByName: Retrieved secret code for haim
+[2025-06-11 15:54:26] Created new person: dds with code: E5609609
+[2025-06-11 15:54:26] Report submitted: Reporter ID 10  Target ID 12
+[2025-06-11 16:15:30] Created new person: 3 with code: D5895BEB
+[2025-06-11 16:15:30] Created new person: david with code: B500E158
+[2025-06-11 16:15:30] Report submitted: Reporter ID 13  Target ID 14
+[2025-06-11 17:14:22] Created new person: wxwxw with code: 47576462
+[2025-06-11 17:14:22] Created new person: efef with code: D4C25630
+[2025-06-11 17:14:22] Report submitted: Reporter ID 15  Target ID 16
+[2025-06-11 17:29:11] Created new person: isreal with code: FB04121F
+[2025-06-11 17:29:11] Created new person: josef with code: E86901D3
+[2025-06-11 17:29:11] Report submitted: Reporter ID 17  Target ID 18
+[2025-06-12 15:13:54] Created new person: ori with code: E5EC066A
+[2025-06-12 15:13:54] Created new person: dan with code: AB05BE89
+[2025-06-12 15:13:54] Report submitted: Reporter ID 19  Target ID 20

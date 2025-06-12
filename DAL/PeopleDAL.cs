@@ -123,8 +123,8 @@ namespace Malshinon09._06.DAL
                 Id = Convert.ToInt32(row["Id"]),
                 FullName = row["FullName"]?.ToString(),
                 Secret_code = row["SecretCode"]?.ToString(),
-                num_reports = row.ContainsKey("ReportCount") ? Convert.ToInt32(row["ReportCount"]) : 0,
-                num_mentions = row.ContainsKey("MentionCount") ? Convert.ToInt32(row["MentionCount"]) : 0,
+                //num_reports = row.ContainsKey("ReportCount") ? Convert.ToInt32(row["ReportCount"]) : 0,
+                //num_mentions = row.ContainsKey("MentionCount") ? Convert.ToInt32(row["MentionCount"]) : 0,
                 CreatedAt = Convert.ToDateTime(row["CreatedAt"])
             };
         }
